@@ -1,0 +1,20 @@
+*{margin:0 ; padding: 0% ; }
+
+h1{
+    color: violet; 
+    font-family: 'Lucida Sans Unicode';
+}
+
+
+p{
+    color: rgb(70, 47, 13);
+    font-family: serif;
+    font-size: 18px;
+}
+
+input{
+    width: 200px;
+    background-color: rgba(0, 0, 128, 0.384);
+
+}
+
