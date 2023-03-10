@@ -1,13 +1,18 @@
 *{margin:0 ; padding: 0% ;}
 
 .texto-principal{
-        color: rgb(222, 8, 104); text-align: justify;
+        color: rgb(255, 255, 255); text-align: justify;
         font-size: 18px;
 
 }
 
+#texto1{
+    background-color: purple; 
+    font-size: 15px;
 
-.texto-secundario{
-    color:blueviolet; text-align: justify; 
-    font-size: 18px;
+}
+
+#texto2{
+    background-color: blue;
+    font-size: 15px;
 }
