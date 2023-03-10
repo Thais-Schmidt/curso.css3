@@ -1,0 +1,13 @@
+*{margin:0 ; padding: 0% ;}
+
+.texto-principal{
+        color: rgb(222, 8, 104); text-align: justify;
+        font-size: 18px;
+
+}
+
+
+.texto-secundario{
+    color:blueviolet; text-align: justify; 
+    font-size: 18px;
+}
