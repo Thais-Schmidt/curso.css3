@@ -1,0 +1,28 @@
+*{margin:0 ; padding: 0% ;}
+
+#exemplo{
+    background-color: green;
+    color: #fff;
+    width: 300px;
+    margin: 50px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+
+#exemplo2{
+    background-color: #dfb6ec;
+    color: #201c33;
+    width: 300px;
+    margin: 50px;
+    padding: 20px 10px 15px 25px;
+}
+
+#exemplo3{
+    background-color: #593d5c;
+    color: #b3aeca;
+    width: 300px;
+    margin: 50px;
+    padding: 20px 10px 15px 25px; 
+}
