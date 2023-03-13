@@ -1,0 +1,25 @@
+*{margin:0 ; padding: 0% ;box-sizing: border-box;}
+
+#conteudo{
+    background-color: red;
+    width: 300px;
+    padding: 20px;
+
+}
+
+#conteudo2{
+    background-color: blue;
+    color: aliceblue;
+    width: 300px;
+    padding: 20px;
+
+}
+
+#boxshadow{
+    background-color: rgb(225, 116, 184);
+    width: 300px;
+    padding: 20px;
+    box-shadow: 10px 10px 5px violet;
+
+}
+
