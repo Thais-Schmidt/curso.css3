@@ -1,0 +1,14 @@
+*{margin: 0%; padding: 0%; box-sizing: border-box;}
+
+#exemplo{
+    background-color: purple;
+    height: 200px;
+    width: 200px;
+    transition: 5s;
+}
+
+#exemplo:hover{  /*ao passar o mouse*/
+    background-color: rgb(229, 131, 229);
+    height: 200px;
+    width: 600px;
+}
